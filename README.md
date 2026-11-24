@@ -3,7 +3,7 @@ Restaurant Menu Item Discovery is a web application that helps restaurant owners
 <img width="986" height="594" alt="Screenshot 2026-11-16 at 6 51 11 PM" src="https://github.com/user-attachments/assets/9ad121ae-1c70-4ac0-8cff-b489ca5edbdd" />
 
 ## Live Demo 
-[Try out the Restaurant Menu Item Discovery!](https://nasa-api-88tq.onrender.com/)
+[Try out the Restaurant Menu Item Discovery!]([https://nasa-api-88tq.onrender.com/](https://restaurant-api-mmkh.onrender.com/))
 
 
 ## Features
